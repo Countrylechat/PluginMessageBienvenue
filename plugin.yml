@@ -1,0 +1,5 @@
+name: MessageBienvenue
+version: 1.0
+api: 3.16.0
+main: src\Matthoto\Main
+author: Matthoto
